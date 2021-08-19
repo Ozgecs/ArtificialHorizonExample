@@ -1,6 +1,6 @@
 # ArtificialHorizonExample
 
-#Daha önce QML ile hiç yapılmamış bir artificial horizon örneği
+#QML ile  yapılmış bir artificial horizon örneği
 
 made by Ozgecs
 
