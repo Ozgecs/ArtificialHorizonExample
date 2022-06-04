@@ -5,7 +5,7 @@
 - Uçakların bordo panellerinde bulunan Suni Ufuk ve İstikamet cayrosunun animasyon örneğidir.
 - QML ile yazılmıştır, otomatik olarak atanan rotasyonlar ile kendiliğinden hareket etmektedir.
 - QTDesignStudio kurarak proje dosyasını çalıştırabilirsiniz.
-- Pojeyi istediğiniz gibi düzenleyebilir ve hatalarını giderebilirsiniz, kaynak göstermeyi unutmayın 
+- Pojeyi istediğiniz gibi düzenleyebilir ve hatalarını giderebilirsiniz, kaynak göstermeyi unutmayınız.
 
 # Projenin Görüntüleri
 
